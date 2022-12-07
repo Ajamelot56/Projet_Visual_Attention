@@ -13,7 +13,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 20, No. 11,
 
 import cv2
 import numpy as np
-import config
+from . import config
 
 
 class IttiSaliency:

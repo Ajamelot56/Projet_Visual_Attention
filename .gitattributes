@@ -2,3 +2,6 @@
 /Projet_Visual_Attention/TranSalNet_weights filter=lfs diff=lfs merge=lfs -text
 TranSalNet_weights filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
+/content/Projet_Visual_Attention/TranSalNet_config/pretrained_models filter=lfs diff=lfs merge=lfs -text
+Projet_Visual_Attention/TranSalNet_config/pretrained_models filter=lfs diff=lfs merge=lfs -text
+TranSalNet_config/pretrained_models filter=lfs diff=lfs merge=lfs -text

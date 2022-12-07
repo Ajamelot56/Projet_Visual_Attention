@@ -9,7 +9,7 @@ import torch.nn as nn
 from torchvision import transforms, utils, models
 import torch.nn.functional as F
 
-
+from .utils import resnet
 from .utils.TransformerEncoder import Encoder
 
 
